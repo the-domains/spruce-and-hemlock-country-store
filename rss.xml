@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Spruce and Hemlock Country Store]]></title>
         <description><![CDATA[Spruce and Hemlock Country Store]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spruce-and-hemlock-country-store/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 01:28:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 01:30:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spruce-and-hemlock-country-store/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Website just launched!!!]]></title>
-            <description><![CDATA[<h1>New Website just launched!!!</h1>]]></description>
-            <link>undefinednew-website-just-launched/index.html</link>
+            <description><![CDATA[<article><h1>New Website just launched!!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc1a275ca535debff9f45a6e4a6da241ac9c3f63.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spruce-and-hemlock-country-store/new-website-just-launched/index.html</link>
             <guid isPermaLink="false">1aab45d1-bb6d-4d46-9242-48ae7e2bdca5</guid>
-            <pubDate>Mon, 08 Feb 2016 01:28:31 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 01:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
